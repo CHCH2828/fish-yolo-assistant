@@ -1,0 +1,10 @@
+# python虚拟环境
+venv/
+# 模型权重（best.pt很大，一般不上传到github，提示用户自己放入）
+*.pt
+# 图片输出
+*.jpg
+*.png
+# python缓存
+__pycache__/
+*.pyc
